@@ -23,6 +23,7 @@ color: NavajoWhite;
 	background-repeat: no-repeat;
 	background-position:  top right;
 	background-size: 40%;
+	min-height: calc(90vh - 150px);
 }
 
 #logo_container {
@@ -57,8 +58,6 @@ color: NavajoWhite;
 	width:100%;
 	height:160px;
 	background-color:#000000;
-	position: fixed;
-	bottom: 0;
 }
 
 #nav_block {
